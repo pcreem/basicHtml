@@ -12,14 +12,14 @@ To review some basic HTML and git command
 
 ## HTML
 Use
-<!DOCTYPE html>,
-<html>: include <head> include <meta>, <title>
-<body>: include 
-Heading: <h1>, <h2> 
-Block Element: <p>, 
-Inline Element: <em>, <strong>
-Unordered, Ordered List: <ul>,<ol>,<li>
-Empty Element: <br/>, <hr/>
+&lt;!DOCTYPE html&gt;,
+&lt;html&gt;: include &lt;head&gt; include &lt;meta&gt;, &lt;title&gt;
+&lt;body&gt;: include 
+Heading: &lt;h1&gt;, &lt;h2&gt; 
+Block Element: &lt;p&gt;, 
+Inline Element: &lt;em&gt;, &lt;strong&gt;
+Unordered, Ordered List: &lt;ul&gt;,&lt;ol&gt;,&lt;li&gt;
+Empty Element: &lt;br/&gt;, &lt;hr/&gt;
 
 ## Git
 Use
@@ -35,7 +35,7 @@ Content
 commit example:
 feat: create index.html
 
-write some html boilerplate such as <!DOCTYPE html>,<head>,<body>
+write some html boilerplate such as &lt;!DOCTYPE html&gt;,&lt;head&gt;,&lt;body&gt;
 
 ## Publish
 Record how to publish github page.
@@ -44,6 +44,6 @@ Record how to publish github page.
 3. Change the Branch from none to main branch and click Save.
 
 ## Credits
-1. https://www.theodinproject.com/lessons/foundations-recipes
-2. https://internetingishard.netlify.app/html-and-css/basic-web-pages/
+1. [TheOdinProject](https://www.theodinproject.com/lessons/foundations-recipes)
+2. [InterestingIsHard](https://internetingishard.netlify.app/html-and-css/basic-web-pages/)
 
