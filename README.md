@@ -1,7 +1,7 @@
 # Basic HTML and Git
 
 To review some basic HTML and git command 
-[The website](https://pcreem.github.io/basicHtml/)
+- [The website](https://pcreem.github.io/basicHtml/)
 
 ## Table of Contents
 - [HTML](#HTML)
